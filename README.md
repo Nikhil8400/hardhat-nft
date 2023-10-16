@@ -68,9 +68,4 @@ Now that everything is set up, you're ready to dive into the world of NFT creati
 
 5. **Start Minting:** You're now all set to mint NFTs based on your preferences. Choose the NFT type that suits your creativity or luck!
 
-## Getting Help
 
-Should you have any questions, need assistance, or want to collaborate, please don't hesitate to reach out. Your success in the NFT world is our top priority. Happy minting!
-
----
-_This project README is crafted with care and creativity to ensure that you have the best experience with our NFT ecosystem._
